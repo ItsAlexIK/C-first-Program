@@ -1,2 +1,2 @@
-# C-first-Program
+# C#-first-Program
 One day of learning C#
