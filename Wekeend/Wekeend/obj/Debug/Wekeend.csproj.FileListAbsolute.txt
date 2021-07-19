@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Wekeend\Wekeend\bin\Debug\Wekeend.exe.config
+C:\Users\User\Desktop\Wekeend\Wekeend\bin\Debug\Wekeend.exe
+C:\Users\User\Desktop\Wekeend\Wekeend\bin\Debug\Wekeend.pdb
+C:\Users\User\Desktop\Wekeend\Wekeend\obj\Debug\Wekeend.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Wekeend\Wekeend\obj\Debug\Wekeend.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Wekeend\Wekeend\obj\Debug\Wekeend.exe
+C:\Users\User\Desktop\Wekeend\Wekeend\obj\Debug\Wekeend.pdb
